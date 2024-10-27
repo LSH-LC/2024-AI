@@ -3,8 +3,15 @@
 
 ##  생성형 AI 기반 질의응답 및 검색 서비스
 - chatGPT (https://openai.com/chatgpt/overview/)
+- claude
+- bard
+- gemini
+- bing
 
 ##  생성형 AI 기반 다양한 서비스
+- AI 기반 개발 편집기 cursor (https://replit.com)
+- AI 기반 개발 도구 replit (https://replit.com)
+- copilot
 
 ## 관련 동영상
 - 인간이 되고 싶었던 로봇 이야기 Bicentennial Man (1999) (https://www.youtube.com/watch?v=ODh2cpT-DqM)
