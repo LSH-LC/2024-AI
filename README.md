@@ -1,17 +1,22 @@
 # 2024-AI
 `2024 재직자 무료 교육 '재직자 직무역량 향상을 위한 인공지능 리터러시'`
 
-##  생성형 AI 기반 질의응답 및 검색 서비스
-- chatGPT (https://openai.com/chatgpt/overview/)
-- claude
-- bard
-- gemini
-- bing
+## 깃허브 자료 다운로드
+- 압축파일 *.zip 다운로드
+- git clone 명령
+    `git clone https://github.com/ai7dnn/2024-ai.git`
 
-##  생성형 AI 기반 다양한 서비스
-- AI 기반 개발 편집기 cursor (https://replit.com)
+## 생성형 AI 기반 질의응답 및 검색 서비스
+- chatGPT (https://chatgpt.com)
+- claude (https://claude.ai)
+- gemini (https://gemini.google.com)
+- copilot (https://copilot.microsoft.com)
+- clova-x (https://clova-x.naver.com)
+- wrtn (https://wrtn.ai)
+
+## 생성형 AI 기반 다양한 서비스
+- AI 기반 개발 편집기 cursor (https://cursor.com)
 - AI 기반 개발 도구 replit (https://replit.com)
-- copilot
 
 ## 관련 동영상
 - 인간이 되고 싶었던 로봇 이야기 Bicentennial Man (1999) (https://www.youtube.com/watch?v=ODh2cpT-DqM)
