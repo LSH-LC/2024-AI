@@ -4,7 +4,7 @@
 ## 깃허브 자료 다운로드
 - 압축파일 *.zip 다운로드
 - git clone 명령 
-    `git clone https://github.com/ai7dnn/2024-AI.git`
+  - `git clone https://github.com/ai7dnn/2024-AI.git`
 
 ## 생성형 AI 기반 질의응답 및 검색 서비스
 - chatGPT (https://chatgpt.com)
