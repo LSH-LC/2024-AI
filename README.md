@@ -6,6 +6,17 @@
 - git clone 명령 
   - `git clone https://github.com/ai7dnn/2024-AI.git`
 
+## 인공지능 체험
+- 인공신경망 체험
+    1. Neural Network 체험 https://playground.tensorflow.org
+
+- 손글씨 숫자 인식
+    1. CNN Digit Recognition WebApp using PyTorch, Flask https://digit-recog-torch.uc.r.appspot.com/
+ 
+- 그림 화풍(스타일) 변환
+    1. 구글 딥드림 생성 https://deepdreamgenerator.com/
+    
+
 ## 생성형 AI 기반 질의응답 및 검색 서비스
 - chatGPT (https://chatgpt.com)
 - claude (https://claude.ai)
@@ -46,9 +57,3 @@
 - 비상교육 인공지능 기초 https://dn.vivasam.com/VS/EBOOK/%EA%B3%A0%EB%93%B1%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%B4%88PC/index.html
 - 길벗 인공지능 기초 https://textbook.gilbut.co.kr/book/index.html
     
-## 인공지능 체험
-- 그림 화풍(스타일) 변환
-    1. 구글 딥드림 생성 https://deepdreamgenerator.com/
-    
-- 손글씨 숫자 인식
-    1. CNN Digit Recognition WebApp using PyTorch, Flask https://digit-recog-torch.uc.r.appspot.com/
